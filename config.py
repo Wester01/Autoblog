@@ -1,0 +1,6 @@
+GEMINI_MODEL = "gemini-2.5-flash"
+TEMPERATURE_SEO = 0.3
+H2_COUNT = 5
+API_KEY = ""
+EXCEL_PATH = "files/"
+WORD_COUNT = 500
